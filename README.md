@@ -1,2 +1,25 @@
 # KRATERS
- JUEGO
+
+1. CREADAS:
+
+  -**PERSONAJE PRINCIPAL**  
+
+
+
+
+
+2. PARTES FALTANTES:
+
+  -**CREAR TEXTURAS MUNDO**
+
+  -**CREAR PERSONAJES**
+
+  -**CREAR ARMAS**
+  -**SONIDOS**
+
+
+
+
+
+
+
