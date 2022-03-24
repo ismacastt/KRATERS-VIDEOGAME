@@ -15,6 +15,7 @@
   -**CREAR PERSONAJES**
 
   -**CREAR ARMAS**
+  -**SONIDOS**
 
 
 
