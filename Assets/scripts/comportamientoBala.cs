@@ -11,7 +11,7 @@ public class comportamientoBala : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        rb2d.velocity = transform.right * velocidadBala;
     }
 
     // Update is called once per frame
@@ -20,17 +20,11 @@ public class comportamientoBala : MonoBehaviour
         
     }
 
-    private void FixedUpdate()
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        rb2d.velocity = Vector2.right * velocidadBala;
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if(collision.gameObject.tag != "Player")
+        if (collision.gameObject.tag != "Player")
         {
             Destroy(gameObject);
         }
-        
     }
 }
