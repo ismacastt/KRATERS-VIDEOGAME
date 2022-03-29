@@ -11,6 +11,11 @@ public class MovimientoPlayer : MonoBehaviour
     //Vector que usaremos mas adelante
     private Vector2 direccionMov;
 
+    private float moverX;
+    private float moverY;
+
+    public Animator animator;
+
     // Como es el primer codigo voy a comentar todo pero las funciones como Start y los Update los voy a comentar solo esta vez porque siempre funcionan igual
 
     //Tanto Start como Update se ejecutan solos, no hay que llamarlos
@@ -26,6 +31,7 @@ public class MovimientoPlayer : MonoBehaviour
     void Update()
     {
         ReconocerTeclas();
+        
     }
 
     /*El fixed Update lo utilizaré para calcular las fisicas y movimientos. Se llama fixed Update porque nos soluciona un error muy basico.
@@ -41,6 +47,7 @@ public class MovimientoPlayer : MonoBehaviour
     void FixedUpdate()
     {
         Mover();
+        animator.SetFloat("Movimiento", direccionMov.sqrMagnitude);
     }
 
     /*
@@ -53,8 +60,11 @@ public class MovimientoPlayer : MonoBehaviour
 
     void ReconocerTeclas()
     {
-        float moverX = Input.GetAxisRaw("Horizontal");
-        float moverY = Input.GetAxisRaw("Vertical");
+        moverX = Input.GetAxisRaw("Horizontal");
+        moverY = Input.GetAxisRaw("Vertical");
+
+        animator.SetFloat("VelocidadX",moverX);
+        animator.SetFloat("VelocidadY",moverY);
 
         direccionMov = new Vector2(moverX,moverY).normalized;
     }
