@@ -3583,11 +3583,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 2137347970}
   velocidad: 3
+  velocidadatras: -2
   vida: 0
-  danioa: 0
-  rango: 0
+  datack: 0
+  distanciaplayer: 0
+  vision: 11.64
+  visionatras: 0.13
   veloatack: 0
-  rangoatack: 0
+  rangoatack: 0.48
   rb2d: {fileID: 2137347975}
   capa:
     serializedVersion: 2
