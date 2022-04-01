@@ -10,7 +10,7 @@ public class MovimientoPlayer : MonoBehaviour
     public Rigidbody2D rb2d;
     //Vector que usaremos mas adelante
     private Vector2 direccionMov;
-
+   
     private float moverX;
     private float moverY;
 
