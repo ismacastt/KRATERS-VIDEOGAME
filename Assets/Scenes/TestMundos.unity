@@ -3563,7 +3563,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2137347969}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.7, y: 2.17, z: -2.3229825}
+  m_LocalPosition: {x: 5.27, y: 0.22, z: -2.3229825}
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3582,15 +3582,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 2137347970}
-  velocidad: 3
+  velocidad: 17
   velocidadatras: -2
   vida: 0
   datack: 0
   distanciaplayer: 0
-  vision: 11.64
+  vision: 14.92
   visionatras: 0.13
   veloatack: 0
-  rangoatack: 0.48
+  rangoatack: 1.83
   rb2d: {fileID: 2137347975}
   capa:
     serializedVersion: 2

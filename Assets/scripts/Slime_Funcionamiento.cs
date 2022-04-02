@@ -70,16 +70,6 @@ public class Slime_Funcionamiento : MonoBehaviour
     }
 
 
-
-    void movimiento()
-    {
-
-
-
-
-    }
-
-
     void ataque()
     {
 
@@ -89,12 +79,11 @@ public class Slime_Funcionamiento : MonoBehaviour
 
     private void OnDrawGizmos() {
 
-        Gizmos.color = Color.yellow;
+        Gizmos.color = Color.green;
 
-        Gizmos.DrawSphere(transform.position,rangoatack);
-        Gizmos.DrawSphere(transform.position,vision);
-        Gizmos.DrawSphere(transform.position,visionatras);
-        
+        Gizmos.DrawWireSphere(transform.position,rangoatack);
+         Gizmos.DrawWireSphere(transform.position,vision);
+        Gizmos.DrawWireSphere(transform.position,visionatras);
     }
 
 
