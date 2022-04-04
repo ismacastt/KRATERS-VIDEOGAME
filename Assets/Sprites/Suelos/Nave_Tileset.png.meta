@@ -719,66 +719,6 @@ TextureImporter:
   - first:
       213: 7150341996363477357
     second: Nave_Tileset_238
-  - first:
-      213: 9089732708859952528
-    second: Nave_Tileset_239
-  - first:
-      213: -6372821380257725950
-    second: Nave_Tileset_240
-  - first:
-      213: 7749855324112294903
-    second: Nave_Tileset_241
-  - first:
-      213: -1215226575505824459
-    second: Nave_Tileset_242
-  - first:
-      213: 4807078609836923220
-    second: Nave_Tileset_243
-  - first:
-      213: -8294921310861293059
-    second: Nave_Tileset_244
-  - first:
-      213: -2171226297111719714
-    second: Nave_Tileset_245
-  - first:
-      213: -2180965865872141509
-    second: Nave_Tileset_246
-  - first:
-      213: -5541752452282816128
-    second: Nave_Tileset_247
-  - first:
-      213: 6991120910328458018
-    second: Nave_Tileset_248
-  - first:
-      213: 5041319155577890478
-    second: Nave_Tileset_249
-  - first:
-      213: -5064627256526851939
-    second: Nave_Tileset_250
-  - first:
-      213: -1469440884286489510
-    second: Nave_Tileset_251
-  - first:
-      213: 5178719336395722926
-    second: Nave_Tileset_252
-  - first:
-      213: -3402363375953560580
-    second: Nave_Tileset_253
-  - first:
-      213: -7538959342973568800
-    second: Nave_Tileset_254
-  - first:
-      213: -8863426724979255652
-    second: Nave_Tileset_255
-  - first:
-      213: -6979453935601676868
-    second: Nave_Tileset_256
-  - first:
-      213: -368102688468920495
-    second: Nave_Tileset_257
-  - first:
-      213: 3372102667792596874
-    second: Nave_Tileset_258
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -2362,7 +2302,7 @@ TextureImporter:
       name: Nave_Tileset_71
       rect:
         serializedVersion: 2
-        x: 192
+        x: 128
         y: 448
         width: 32
         height: 32
@@ -2383,7 +2323,7 @@ TextureImporter:
       name: Nave_Tileset_72
       rect:
         serializedVersion: 2
-        x: 224
+        x: 160
         y: 448
         width: 32
         height: 32
@@ -2404,7 +2344,7 @@ TextureImporter:
       name: Nave_Tileset_73
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 448
         width: 32
         height: 32
@@ -2425,7 +2365,7 @@ TextureImporter:
       name: Nave_Tileset_74
       rect:
         serializedVersion: 2
-        x: 288
+        x: 224
         y: 448
         width: 32
         height: 32
@@ -2446,7 +2386,7 @@ TextureImporter:
       name: Nave_Tileset_75
       rect:
         serializedVersion: 2
-        x: 320
+        x: 256
         y: 448
         width: 32
         height: 32
@@ -2467,7 +2407,7 @@ TextureImporter:
       name: Nave_Tileset_76
       rect:
         serializedVersion: 2
-        x: 352
+        x: 288
         y: 448
         width: 32
         height: 32
@@ -2488,7 +2428,7 @@ TextureImporter:
       name: Nave_Tileset_77
       rect:
         serializedVersion: 2
-        x: 384
+        x: 320
         y: 448
         width: 32
         height: 32
@@ -2509,7 +2449,7 @@ TextureImporter:
       name: Nave_Tileset_78
       rect:
         serializedVersion: 2
-        x: 416
+        x: 352
         y: 448
         width: 32
         height: 32
@@ -2530,7 +2470,7 @@ TextureImporter:
       name: Nave_Tileset_79
       rect:
         serializedVersion: 2
-        x: 448
+        x: 384
         y: 448
         width: 32
         height: 32
@@ -2551,7 +2491,7 @@ TextureImporter:
       name: Nave_Tileset_80
       rect:
         serializedVersion: 2
-        x: 480
+        x: 416
         y: 448
         width: 32
         height: 32
@@ -2572,8 +2512,8 @@ TextureImporter:
       name: Nave_Tileset_81
       rect:
         serializedVersion: 2
-        x: 0
-        y: 416
+        x: 448
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -2593,8 +2533,8 @@ TextureImporter:
       name: Nave_Tileset_82
       rect:
         serializedVersion: 2
-        x: 32
-        y: 416
+        x: 480
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -2614,7 +2554,7 @@ TextureImporter:
       name: Nave_Tileset_83
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 416
         width: 32
         height: 32
@@ -2635,7 +2575,7 @@ TextureImporter:
       name: Nave_Tileset_84
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 416
         width: 32
         height: 32
@@ -2656,7 +2596,7 @@ TextureImporter:
       name: Nave_Tileset_85
       rect:
         serializedVersion: 2
-        x: 192
+        x: 128
         y: 416
         width: 32
         height: 32
@@ -2677,7 +2617,7 @@ TextureImporter:
       name: Nave_Tileset_86
       rect:
         serializedVersion: 2
-        x: 224
+        x: 160
         y: 416
         width: 32
         height: 32
@@ -2698,7 +2638,7 @@ TextureImporter:
       name: Nave_Tileset_87
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 416
         width: 32
         height: 32
@@ -2719,7 +2659,7 @@ TextureImporter:
       name: Nave_Tileset_88
       rect:
         serializedVersion: 2
-        x: 288
+        x: 224
         y: 416
         width: 32
         height: 32
@@ -2740,7 +2680,7 @@ TextureImporter:
       name: Nave_Tileset_89
       rect:
         serializedVersion: 2
-        x: 320
+        x: 256
         y: 416
         width: 32
         height: 32
@@ -2761,7 +2701,7 @@ TextureImporter:
       name: Nave_Tileset_90
       rect:
         serializedVersion: 2
-        x: 352
+        x: 288
         y: 416
         width: 32
         height: 32
@@ -2782,7 +2722,7 @@ TextureImporter:
       name: Nave_Tileset_91
       rect:
         serializedVersion: 2
-        x: 384
+        x: 320
         y: 416
         width: 32
         height: 32
@@ -2803,7 +2743,7 @@ TextureImporter:
       name: Nave_Tileset_92
       rect:
         serializedVersion: 2
-        x: 416
+        x: 352
         y: 416
         width: 32
         height: 32
@@ -2824,7 +2764,7 @@ TextureImporter:
       name: Nave_Tileset_93
       rect:
         serializedVersion: 2
-        x: 448
+        x: 384
         y: 416
         width: 32
         height: 32
@@ -2845,7 +2785,7 @@ TextureImporter:
       name: Nave_Tileset_94
       rect:
         serializedVersion: 2
-        x: 480
+        x: 416
         y: 416
         width: 32
         height: 32
@@ -2866,8 +2806,8 @@ TextureImporter:
       name: Nave_Tileset_95
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
+        x: 448
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -2887,8 +2827,8 @@ TextureImporter:
       name: Nave_Tileset_96
       rect:
         serializedVersion: 2
-        x: 32
-        y: 384
+        x: 480
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -2908,7 +2848,7 @@ TextureImporter:
       name: Nave_Tileset_97
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 384
         width: 32
         height: 32
@@ -2929,7 +2869,7 @@ TextureImporter:
       name: Nave_Tileset_98
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 384
         width: 32
         height: 32
@@ -3160,7 +3100,7 @@ TextureImporter:
       name: Nave_Tileset_109
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 352
         width: 32
         height: 32
@@ -3181,7 +3121,7 @@ TextureImporter:
       name: Nave_Tileset_110
       rect:
         serializedVersion: 2
-        x: 288
+        x: 256
         y: 352
         width: 32
         height: 32
@@ -3202,7 +3142,7 @@ TextureImporter:
       name: Nave_Tileset_111
       rect:
         serializedVersion: 2
-        x: 320
+        x: 288
         y: 352
         width: 32
         height: 32
@@ -3223,7 +3163,7 @@ TextureImporter:
       name: Nave_Tileset_112
       rect:
         serializedVersion: 2
-        x: 416
+        x: 320
         y: 352
         width: 32
         height: 32
@@ -3244,7 +3184,7 @@ TextureImporter:
       name: Nave_Tileset_113
       rect:
         serializedVersion: 2
-        x: 448
+        x: 416
         y: 352
         width: 32
         height: 32
@@ -3265,8 +3205,8 @@ TextureImporter:
       name: Nave_Tileset_114
       rect:
         serializedVersion: 2
-        x: 0
-        y: 320
+        x: 448
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -3286,7 +3226,7 @@ TextureImporter:
       name: Nave_Tileset_115
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 320
         width: 32
         height: 32
@@ -3307,7 +3247,7 @@ TextureImporter:
       name: Nave_Tileset_116
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 320
         width: 32
         height: 32
@@ -3328,7 +3268,7 @@ TextureImporter:
       name: Nave_Tileset_117
       rect:
         serializedVersion: 2
-        x: 96
+        x: 64
         y: 320
         width: 32
         height: 32
@@ -3349,7 +3289,7 @@ TextureImporter:
       name: Nave_Tileset_118
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 320
         width: 32
         height: 32
@@ -3370,7 +3310,7 @@ TextureImporter:
       name: Nave_Tileset_119
       rect:
         serializedVersion: 2
-        x: 160
+        x: 128
         y: 320
         width: 32
         height: 32
@@ -3412,7 +3352,7 @@ TextureImporter:
       name: Nave_Tileset_121
       rect:
         serializedVersion: 2
-        x: 224
+        x: 256
         y: 320
         width: 32
         height: 32
@@ -3433,7 +3373,7 @@ TextureImporter:
       name: Nave_Tileset_122
       rect:
         serializedVersion: 2
-        x: 256
+        x: 288
         y: 320
         width: 32
         height: 32
@@ -3454,7 +3394,7 @@ TextureImporter:
       name: Nave_Tileset_123
       rect:
         serializedVersion: 2
-        x: 288
+        x: 320
         y: 320
         width: 32
         height: 32
@@ -3475,7 +3415,7 @@ TextureImporter:
       name: Nave_Tileset_124
       rect:
         serializedVersion: 2
-        x: 320
+        x: 416
         y: 320
         width: 32
         height: 32
@@ -3496,7 +3436,7 @@ TextureImporter:
       name: Nave_Tileset_125
       rect:
         serializedVersion: 2
-        x: 416
+        x: 448
         y: 320
         width: 32
         height: 32
@@ -3517,8 +3457,8 @@ TextureImporter:
       name: Nave_Tileset_126
       rect:
         serializedVersion: 2
-        x: 448
-        y: 320
+        x: 0
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -3538,7 +3478,7 @@ TextureImporter:
       name: Nave_Tileset_127
       rect:
         serializedVersion: 2
-        x: 0
+        x: 32
         y: 288
         width: 32
         height: 32
@@ -3559,7 +3499,7 @@ TextureImporter:
       name: Nave_Tileset_128
       rect:
         serializedVersion: 2
-        x: 32
+        x: 64
         y: 288
         width: 32
         height: 32
@@ -3580,7 +3520,7 @@ TextureImporter:
       name: Nave_Tileset_129
       rect:
         serializedVersion: 2
-        x: 64
+        x: 96
         y: 288
         width: 32
         height: 32
@@ -3601,7 +3541,7 @@ TextureImporter:
       name: Nave_Tileset_130
       rect:
         serializedVersion: 2
-        x: 96
+        x: 128
         y: 288
         width: 32
         height: 32
@@ -3622,7 +3562,7 @@ TextureImporter:
       name: Nave_Tileset_131
       rect:
         serializedVersion: 2
-        x: 128
+        x: 192
         y: 288
         width: 32
         height: 32
@@ -3643,7 +3583,7 @@ TextureImporter:
       name: Nave_Tileset_132
       rect:
         serializedVersion: 2
-        x: 160
+        x: 256
         y: 288
         width: 32
         height: 32
@@ -3664,7 +3604,7 @@ TextureImporter:
       name: Nave_Tileset_133
       rect:
         serializedVersion: 2
-        x: 192
+        x: 288
         y: 288
         width: 32
         height: 32
@@ -3685,7 +3625,7 @@ TextureImporter:
       name: Nave_Tileset_134
       rect:
         serializedVersion: 2
-        x: 224
+        x: 320
         y: 288
         width: 32
         height: 32
@@ -3706,7 +3646,7 @@ TextureImporter:
       name: Nave_Tileset_135
       rect:
         serializedVersion: 2
-        x: 256
+        x: 416
         y: 288
         width: 32
         height: 32
@@ -3727,7 +3667,7 @@ TextureImporter:
       name: Nave_Tileset_136
       rect:
         serializedVersion: 2
-        x: 288
+        x: 448
         y: 288
         width: 32
         height: 32
@@ -3748,8 +3688,8 @@ TextureImporter:
       name: Nave_Tileset_137
       rect:
         serializedVersion: 2
-        x: 320
-        y: 288
+        x: 0
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3769,8 +3709,8 @@ TextureImporter:
       name: Nave_Tileset_138
       rect:
         serializedVersion: 2
-        x: 416
-        y: 288
+        x: 32
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3790,8 +3730,8 @@ TextureImporter:
       name: Nave_Tileset_139
       rect:
         serializedVersion: 2
-        x: 448
-        y: 288
+        x: 64
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -3811,7 +3751,7 @@ TextureImporter:
       name: Nave_Tileset_140
       rect:
         serializedVersion: 2
-        x: 0
+        x: 96
         y: 256
         width: 32
         height: 32
@@ -3832,7 +3772,7 @@ TextureImporter:
       name: Nave_Tileset_141
       rect:
         serializedVersion: 2
-        x: 32
+        x: 128
         y: 256
         width: 32
         height: 32
@@ -3853,7 +3793,7 @@ TextureImporter:
       name: Nave_Tileset_142
       rect:
         serializedVersion: 2
-        x: 64
+        x: 192
         y: 256
         width: 32
         height: 32
@@ -3874,7 +3814,7 @@ TextureImporter:
       name: Nave_Tileset_143
       rect:
         serializedVersion: 2
-        x: 96
+        x: 256
         y: 256
         width: 32
         height: 32
@@ -3895,7 +3835,7 @@ TextureImporter:
       name: Nave_Tileset_144
       rect:
         serializedVersion: 2
-        x: 128
+        x: 288
         y: 256
         width: 32
         height: 32
@@ -3916,7 +3856,7 @@ TextureImporter:
       name: Nave_Tileset_145
       rect:
         serializedVersion: 2
-        x: 160
+        x: 320
         y: 256
         width: 32
         height: 32
@@ -3937,7 +3877,7 @@ TextureImporter:
       name: Nave_Tileset_146
       rect:
         serializedVersion: 2
-        x: 192
+        x: 416
         y: 256
         width: 32
         height: 32
@@ -3958,7 +3898,7 @@ TextureImporter:
       name: Nave_Tileset_147
       rect:
         serializedVersion: 2
-        x: 224
+        x: 448
         y: 256
         width: 32
         height: 32
@@ -3979,8 +3919,8 @@ TextureImporter:
       name: Nave_Tileset_148
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 32
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -4000,8 +3940,8 @@ TextureImporter:
       name: Nave_Tileset_149
       rect:
         serializedVersion: 2
-        x: 288
-        y: 256
+        x: 64
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -4021,8 +3961,8 @@ TextureImporter:
       name: Nave_Tileset_150
       rect:
         serializedVersion: 2
-        x: 320
-        y: 256
+        x: 256
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -4042,8 +3982,8 @@ TextureImporter:
       name: Nave_Tileset_151
       rect:
         serializedVersion: 2
-        x: 416
-        y: 256
+        x: 0
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4063,8 +4003,8 @@ TextureImporter:
       name: Nave_Tileset_152
       rect:
         serializedVersion: 2
-        x: 448
-        y: 256
+        x: 32
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4084,8 +4024,8 @@ TextureImporter:
       name: Nave_Tileset_153
       rect:
         serializedVersion: 2
-        x: 32
-        y: 224
+        x: 64
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4105,8 +4045,8 @@ TextureImporter:
       name: Nave_Tileset_154
       rect:
         serializedVersion: 2
-        x: 64
-        y: 224
+        x: 96
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4126,8 +4066,8 @@ TextureImporter:
       name: Nave_Tileset_155
       rect:
         serializedVersion: 2
-        x: 160
-        y: 224
+        x: 128
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4147,8 +4087,8 @@ TextureImporter:
       name: Nave_Tileset_156
       rect:
         serializedVersion: 2
-        x: 192
-        y: 224
+        x: 256
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4168,8 +4108,8 @@ TextureImporter:
       name: Nave_Tileset_157
       rect:
         serializedVersion: 2
-        x: 224
-        y: 224
+        x: 288
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4189,8 +4129,8 @@ TextureImporter:
       name: Nave_Tileset_158
       rect:
         serializedVersion: 2
-        x: 256
-        y: 224
+        x: 320
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -4210,7 +4150,7 @@ TextureImporter:
       name: Nave_Tileset_159
       rect:
         serializedVersion: 2
-        x: 0
+        x: 352
         y: 192
         width: 32
         height: 32
@@ -4231,7 +4171,7 @@ TextureImporter:
       name: Nave_Tileset_160
       rect:
         serializedVersion: 2
-        x: 32
+        x: 384
         y: 192
         width: 32
         height: 32
@@ -4252,7 +4192,7 @@ TextureImporter:
       name: Nave_Tileset_161
       rect:
         serializedVersion: 2
-        x: 64
+        x: 416
         y: 192
         width: 32
         height: 32
@@ -4273,7 +4213,7 @@ TextureImporter:
       name: Nave_Tileset_162
       rect:
         serializedVersion: 2
-        x: 96
+        x: 448
         y: 192
         width: 32
         height: 32
@@ -4294,7 +4234,7 @@ TextureImporter:
       name: Nave_Tileset_163
       rect:
         serializedVersion: 2
-        x: 128
+        x: 480
         y: 192
         width: 32
         height: 32
@@ -4315,8 +4255,8 @@ TextureImporter:
       name: Nave_Tileset_164
       rect:
         serializedVersion: 2
-        x: 160
-        y: 192
+        x: 0
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4336,8 +4276,8 @@ TextureImporter:
       name: Nave_Tileset_165
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
+        x: 32
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4357,8 +4297,8 @@ TextureImporter:
       name: Nave_Tileset_166
       rect:
         serializedVersion: 2
-        x: 224
-        y: 192
+        x: 64
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4378,8 +4318,8 @@ TextureImporter:
       name: Nave_Tileset_167
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
+        x: 96
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4399,8 +4339,8 @@ TextureImporter:
       name: Nave_Tileset_168
       rect:
         serializedVersion: 2
-        x: 288
-        y: 192
+        x: 256
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4420,8 +4360,8 @@ TextureImporter:
       name: Nave_Tileset_169
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
+        x: 288
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4441,8 +4381,8 @@ TextureImporter:
       name: Nave_Tileset_170
       rect:
         serializedVersion: 2
-        x: 352
-        y: 192
+        x: 320
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4462,8 +4402,8 @@ TextureImporter:
       name: Nave_Tileset_171
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
+        x: 352
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4483,8 +4423,8 @@ TextureImporter:
       name: Nave_Tileset_172
       rect:
         serializedVersion: 2
-        x: 416
-        y: 192
+        x: 384
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4504,8 +4444,8 @@ TextureImporter:
       name: Nave_Tileset_173
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
+        x: 416
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4525,8 +4465,8 @@ TextureImporter:
       name: Nave_Tileset_174
       rect:
         serializedVersion: 2
-        x: 480
-        y: 192
+        x: 448
+        y: 160
         width: 32
         height: 32
       alignment: 0
@@ -4546,7 +4486,7 @@ TextureImporter:
       name: Nave_Tileset_175
       rect:
         serializedVersion: 2
-        x: 0
+        x: 480
         y: 160
         width: 32
         height: 32
@@ -4567,8 +4507,8 @@ TextureImporter:
       name: Nave_Tileset_176
       rect:
         serializedVersion: 2
-        x: 32
-        y: 160
+        x: 0
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4588,8 +4528,8 @@ TextureImporter:
       name: Nave_Tileset_177
       rect:
         serializedVersion: 2
-        x: 64
-        y: 160
+        x: 32
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4609,8 +4549,8 @@ TextureImporter:
       name: Nave_Tileset_178
       rect:
         serializedVersion: 2
-        x: 96
-        y: 160
+        x: 64
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4630,8 +4570,8 @@ TextureImporter:
       name: Nave_Tileset_179
       rect:
         serializedVersion: 2
-        x: 160
-        y: 160
+        x: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4651,8 +4591,8 @@ TextureImporter:
       name: Nave_Tileset_180
       rect:
         serializedVersion: 2
-        x: 192
-        y: 160
+        x: 128
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4672,8 +4612,8 @@ TextureImporter:
       name: Nave_Tileset_181
       rect:
         serializedVersion: 2
-        x: 224
-        y: 160
+        x: 160
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4693,8 +4633,8 @@ TextureImporter:
       name: Nave_Tileset_182
       rect:
         serializedVersion: 2
-        x: 256
-        y: 160
+        x: 288
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4714,8 +4654,8 @@ TextureImporter:
       name: Nave_Tileset_183
       rect:
         serializedVersion: 2
-        x: 288
-        y: 160
+        x: 320
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4735,8 +4675,8 @@ TextureImporter:
       name: Nave_Tileset_184
       rect:
         serializedVersion: 2
-        x: 320
-        y: 160
+        x: 352
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4756,8 +4696,8 @@ TextureImporter:
       name: Nave_Tileset_185
       rect:
         serializedVersion: 2
-        x: 352
-        y: 160
+        x: 384
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4777,8 +4717,8 @@ TextureImporter:
       name: Nave_Tileset_186
       rect:
         serializedVersion: 2
-        x: 384
-        y: 160
+        x: 416
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4798,8 +4738,8 @@ TextureImporter:
       name: Nave_Tileset_187
       rect:
         serializedVersion: 2
-        x: 416
-        y: 160
+        x: 448
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4819,8 +4759,8 @@ TextureImporter:
       name: Nave_Tileset_188
       rect:
         serializedVersion: 2
-        x: 448
-        y: 160
+        x: 480
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -4840,8 +4780,8 @@ TextureImporter:
       name: Nave_Tileset_189
       rect:
         serializedVersion: 2
-        x: 480
-        y: 160
+        x: 0
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4861,8 +4801,8 @@ TextureImporter:
       name: Nave_Tileset_190
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
+        x: 32
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4882,8 +4822,8 @@ TextureImporter:
       name: Nave_Tileset_191
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
+        x: 64
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4903,8 +4843,8 @@ TextureImporter:
       name: Nave_Tileset_192
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
+        x: 96
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4924,8 +4864,8 @@ TextureImporter:
       name: Nave_Tileset_193
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
+        x: 128
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4945,8 +4885,8 @@ TextureImporter:
       name: Nave_Tileset_194
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
+        x: 160
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4966,8 +4906,8 @@ TextureImporter:
       name: Nave_Tileset_195
       rect:
         serializedVersion: 2
-        x: 160
-        y: 128
+        x: 192
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -4987,8 +4927,8 @@ TextureImporter:
       name: Nave_Tileset_196
       rect:
         serializedVersion: 2
-        x: 224
-        y: 128
+        x: 288
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5008,8 +4948,8 @@ TextureImporter:
       name: Nave_Tileset_197
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
+        x: 320
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5029,8 +4969,8 @@ TextureImporter:
       name: Nave_Tileset_198
       rect:
         serializedVersion: 2
-        x: 288
-        y: 128
+        x: 352
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5050,8 +4990,8 @@ TextureImporter:
       name: Nave_Tileset_199
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
+        x: 384
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5071,8 +5011,8 @@ TextureImporter:
       name: Nave_Tileset_200
       rect:
         serializedVersion: 2
-        x: 352
-        y: 128
+        x: 416
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5092,8 +5032,8 @@ TextureImporter:
       name: Nave_Tileset_201
       rect:
         serializedVersion: 2
-        x: 384
-        y: 128
+        x: 448
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5113,8 +5053,8 @@ TextureImporter:
       name: Nave_Tileset_202
       rect:
         serializedVersion: 2
-        x: 416
-        y: 128
+        x: 480
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -5134,8 +5074,8 @@ TextureImporter:
       name: Nave_Tileset_203
       rect:
         serializedVersion: 2
-        x: 448
-        y: 128
+        x: 0
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5155,8 +5095,8 @@ TextureImporter:
       name: Nave_Tileset_204
       rect:
         serializedVersion: 2
-        x: 480
-        y: 128
+        x: 32
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5176,8 +5116,8 @@ TextureImporter:
       name: Nave_Tileset_205
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
+        x: 64
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5197,8 +5137,8 @@ TextureImporter:
       name: Nave_Tileset_206
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
+        x: 96
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5218,8 +5158,8 @@ TextureImporter:
       name: Nave_Tileset_207
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
+        x: 128
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5239,8 +5179,8 @@ TextureImporter:
       name: Nave_Tileset_208
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
+        x: 160
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5260,8 +5200,8 @@ TextureImporter:
       name: Nave_Tileset_209
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
+        x: 192
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5281,8 +5221,8 @@ TextureImporter:
       name: Nave_Tileset_210
       rect:
         serializedVersion: 2
-        x: 160
-        y: 96
+        x: 288
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5302,8 +5242,8 @@ TextureImporter:
       name: Nave_Tileset_211
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
+        x: 320
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5323,8 +5263,8 @@ TextureImporter:
       name: Nave_Tileset_212
       rect:
         serializedVersion: 2
-        x: 224
-        y: 96
+        x: 352
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5344,8 +5284,8 @@ TextureImporter:
       name: Nave_Tileset_213
       rect:
         serializedVersion: 2
-        x: 256
-        y: 96
+        x: 384
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5365,8 +5305,8 @@ TextureImporter:
       name: Nave_Tileset_214
       rect:
         serializedVersion: 2
-        x: 288
-        y: 96
+        x: 416
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5386,8 +5326,8 @@ TextureImporter:
       name: Nave_Tileset_215
       rect:
         serializedVersion: 2
-        x: 320
-        y: 96
+        x: 448
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5407,8 +5347,8 @@ TextureImporter:
       name: Nave_Tileset_216
       rect:
         serializedVersion: 2
-        x: 352
-        y: 96
+        x: 480
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -5428,8 +5368,8 @@ TextureImporter:
       name: Nave_Tileset_217
       rect:
         serializedVersion: 2
-        x: 384
-        y: 96
+        x: 0
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5449,8 +5389,8 @@ TextureImporter:
       name: Nave_Tileset_218
       rect:
         serializedVersion: 2
-        x: 416
-        y: 96
+        x: 32
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5470,8 +5410,8 @@ TextureImporter:
       name: Nave_Tileset_219
       rect:
         serializedVersion: 2
-        x: 448
-        y: 96
+        x: 64
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5491,8 +5431,8 @@ TextureImporter:
       name: Nave_Tileset_220
       rect:
         serializedVersion: 2
-        x: 480
-        y: 96
+        x: 96
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5512,8 +5452,8 @@ TextureImporter:
       name: Nave_Tileset_221
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 128
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5533,8 +5473,8 @@ TextureImporter:
       name: Nave_Tileset_222
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
+        x: 160
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5554,8 +5494,8 @@ TextureImporter:
       name: Nave_Tileset_223
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
+        x: 192
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5575,8 +5515,8 @@ TextureImporter:
       name: Nave_Tileset_224
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
+        x: 224
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5596,8 +5536,8 @@ TextureImporter:
       name: Nave_Tileset_225
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
+        x: 256
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5617,8 +5557,8 @@ TextureImporter:
       name: Nave_Tileset_226
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
+        x: 288
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5638,8 +5578,8 @@ TextureImporter:
       name: Nave_Tileset_227
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
+        x: 320
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -5659,8 +5599,8 @@ TextureImporter:
       name: Nave_Tileset_228
       rect:
         serializedVersion: 2
-        x: 224
-        y: 64
+        x: 0
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5680,8 +5620,8 @@ TextureImporter:
       name: Nave_Tileset_229
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
+        x: 32
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5701,8 +5641,8 @@ TextureImporter:
       name: Nave_Tileset_230
       rect:
         serializedVersion: 2
-        x: 288
-        y: 64
+        x: 64
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5722,8 +5662,8 @@ TextureImporter:
       name: Nave_Tileset_231
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
+        x: 96
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5743,8 +5683,8 @@ TextureImporter:
       name: Nave_Tileset_232
       rect:
         serializedVersion: 2
-        x: 352
-        y: 64
+        x: 128
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5764,8 +5704,8 @@ TextureImporter:
       name: Nave_Tileset_233
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
+        x: 160
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5785,8 +5725,8 @@ TextureImporter:
       name: Nave_Tileset_234
       rect:
         serializedVersion: 2
-        x: 416
-        y: 64
+        x: 192
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5806,8 +5746,8 @@ TextureImporter:
       name: Nave_Tileset_235
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
+        x: 224
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5827,8 +5767,8 @@ TextureImporter:
       name: Nave_Tileset_236
       rect:
         serializedVersion: 2
-        x: 480
-        y: 64
+        x: 256
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5848,8 +5788,8 @@ TextureImporter:
       name: Nave_Tileset_237
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
+        x: 288
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5869,8 +5809,8 @@ TextureImporter:
       name: Nave_Tileset_238
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 320
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -5882,426 +5822,6 @@ TextureImporter:
       bones: []
       spriteID: d617dcb592e1b3360800000000000000
       internalID: 7150341996363477357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_239
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09db8de3db7352e70800000000000000
-      internalID: 9089732708859952528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_240
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20249b428b03f87a0800000000000000
-      internalID: -6372821380257725950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_241
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f312665b540d8b60800000000000000
-      internalID: 7749855324112294903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_242
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5356c5d3ed5a22fe0800000000000000
-      internalID: -1215226575505824459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_243
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45955b2d68c26b240800000000000000
-      internalID: 4807078609836923220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_244
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df98b42240582ec80800000000000000
-      internalID: -8294921310861293059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_245
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed05ba9bf214ed1e0800000000000000
-      internalID: -2171226297111719714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_246
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b335079a917abb1e0800000000000000
-      internalID: -2180965865872141509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_247
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0896880918db713b0800000000000000
-      internalID: -5541752452282816128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_248
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22beee96d63750160800000000000000
-      internalID: 6991120910328458018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_249
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea6a79bdf0d56f540800000000000000
-      internalID: 5041319155577890478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_250
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d90b4fef754d6b9b0800000000000000
-      internalID: -5064627256526851939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_251
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5cfaa91d4f7b9be0800000000000000
-      internalID: -1469440884286489510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_252
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea050556cc18ed740800000000000000
-      internalID: 5178719336395722926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_253
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfb3d7b398068c0d0800000000000000
-      internalID: -3402363375953560580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_254
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e8b2f1bb6c306790800000000000000
-      internalID: -7538959342973568800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_255
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9658e4aa58cef480800000000000000
-      internalID: -8863426724979255652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_256
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cbd8242df9ff32f90800000000000000
-      internalID: -6979453935601676868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_257
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15791fc1e8c34eaf0800000000000000
-      internalID: -368102688468920495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave_Tileset_258
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8fbceb928d1cce20800000000000000
-      internalID: 3372102667792596874
       vertices: []
       indices: 
       edges: []
