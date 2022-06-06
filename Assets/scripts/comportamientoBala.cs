@@ -7,8 +7,10 @@ public class comportamientoBala : MonoBehaviour
 
     public Rigidbody2D rb2d;
     public float velocidadBala;
+    public Rigidbody2D player;
 
     // Start is called before the first frame update
+
     void Start()
     {
         rb2d.velocity = transform.right * velocidadBala;

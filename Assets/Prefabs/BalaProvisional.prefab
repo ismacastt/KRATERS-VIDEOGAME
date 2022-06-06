@@ -136,3 +136,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb2d: {fileID: 8160870407938927747}
   velocidadBala: 10
+  player: {fileID: 8397775329767359081, guid: 4c1da33bb78d68046ae91f3d367d8b39, type: 3}

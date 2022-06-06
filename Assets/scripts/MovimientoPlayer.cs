@@ -15,11 +15,7 @@ public class MovimientoPlayer : MonoBehaviour
     private float moverY;
 
     public Animator animator;
-
-    public SpriteRenderer sr;
-
     
-
     // Como es el primer codigo voy a comentar todo pero las funciones como Start y los Update los voy a comentar solo esta vez porque siempre funcionan igual
 
     //Tanto Start como Update se ejecutan solos, no hay que llamarlos

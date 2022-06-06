@@ -20,27 +20,28 @@ public class TestMecanicaDisparar : MonoBehaviour
     
     void Update()
     {
-        if(tiempoEntreDisparos <= 0){
-            if (Input.GetKey(KeyCode.RightArrow))
+       if(tiempoEntreDisparos <= 0){
+            if (Input.GetKey(KeyCode.D))
             {
                 dispararBala(dispararDer);
-                tiempoEntreDisparos = comenzarTiempoEntreDisparos;
             }
-            if (Input.GetKey(KeyCode.LeftArrow))
+            else if (Input.GetKey(KeyCode.A))
             {
                 dispararBala(dispararIzq);
-                tiempoEntreDisparos = comenzarTiempoEntreDisparos;
             }
-            if (Input.GetKey(KeyCode.UpArrow))
+            else if (Input.GetKey(KeyCode.W))
             {
                 dispararBala(dispararArr);
-                tiempoEntreDisparos = comenzarTiempoEntreDisparos;
             }
-            if (Input.GetKey(KeyCode.DownArrow))
+            else if (Input.GetKey(KeyCode.S))
             {
                 dispararBala(dispararAba);
-                tiempoEntreDisparos = comenzarTiempoEntreDisparos;
             }
+            else
+            {
+                dispararBala(dispararDer);
+            }
+            tiempoEntreDisparos = comenzarTiempoEntreDisparos;
         }
         else
         {
