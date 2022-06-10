@@ -139,7 +139,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &45873089
 Transform:
@@ -123543,7 +123543,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!156049354 &989888936
 Grid:
@@ -124416,6 +124416,10 @@ PrefabInstance:
       propertyPath: camara
       value: 
       objectReference: {fileID: 1602102553}
+    - target: {fileID: 4840407110566917738, guid: c30c59a9a5b85bc469552e832a6a99b7, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 4840407110566917738, guid: c30c59a9a5b85bc469552e832a6a99b7, type: 3}
       propertyPath: m_CollisionDetection
       value: 1
