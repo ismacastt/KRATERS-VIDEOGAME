@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 4840407110566917737}
   - component: {fileID: 4840407110566917738}
   - component: {fileID: 4840407110566917739}
+  - component: {fileID: 808483833}
   m_Layer: 0
   m_Name: pj
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -137,6 +138,22 @@ MonoBehaviour:
   pDisparo: {fileID: 4840407111057309279}
   prefabBala: {fileID: 8160870407938927750, guid: 6302a201045a21f4d87e0cf406709e1b, type: 3}
   balaForce: 20
+--- !u!70 &808483833
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4840407110566917742}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.053102493, y: 1.1379786}
+  m_Size: {x: 3.00626, y: 3.9498882}
+  m_Direction: 0
 --- !u!1 &4840407111057309278
 GameObject:
   m_ObjectHideFlags: 0
